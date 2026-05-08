@@ -5,13 +5,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.Random;
 
-/*
- * Enhanced Tank Battle Game
- * Save this file as: TankBattleGame.java
- * Run:
- *   javac TankBattleGame.java
- *   java TankBattleGame
- */
+
 public class TankBattleGame extends JPanel implements ActionListener, KeyListener {
     private static final int WIDTH = 800;
     private static final int HEIGHT = 600;
